@@ -23,7 +23,7 @@ MonoBehaviour:
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 5
-  prefab: {fileID: 6665780359852445085, guid: 66b0e4f0c9afef8489dfb2d8e6ba0145, type: 3}
+  prefab: {fileID: 6362029152503629157, guid: 66b0e4f0c9afef8489dfb2d8e6ba0145, type: 3}
   grabSFX: ShovelReelUp
   dropSFX: ShovelSwing
   verticalOffset: 0.06

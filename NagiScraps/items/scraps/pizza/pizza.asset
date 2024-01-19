@@ -23,7 +23,7 @@ MonoBehaviour:
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 5
-  prefab: {fileID: 217505339140297214, guid: 93a4dffef91b63e4d99cf2f96d3be5f5, type: 3}
+  prefab: {fileID: 6178985097970002148, guid: e0ef9b1157fa7fd47aefe50555bafe2d, type: 3}
   grabSFX: ShovelReelUp
   dropSFX: ShovelSwing
   verticalOffset: 0.06
@@ -120,13 +120,13 @@ MonoBehaviour:
   noiseAudio: {fileID: 0}
   noiseAudioFar: {fileID: 0}
   noiseSFX:
-  - ClownHorn1
+  - pizza!
   noiseSFXFar:
   - ClownHornFar
   noiseRange: 60
   maxLoudness: 1
   minLoudness: 0.6
-  minPitch: 0.93
+  minPitch: 1
   maxPitch: 1
   triggerAnimator: {fileID: 0}
   whoopieCushionAudio: {fileID: 0}

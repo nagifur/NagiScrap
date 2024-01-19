@@ -12,10 +12,15 @@ MonoBehaviour:
   m_Script: {fileID: -2065973508, guid: 2c2d93d7e414a7b4ba3e95d0415d5042, type: 3}
   m_Name: nagiscrapmodassetbank
   m_EditorClassIdentifier: 
-  _audioClips: []
+  _audioClips:
+  - AudioClipName: pizza!
+    AudioClipPath: 
+    AudioClip: {fileID: 8300000, guid: 647c6cef4707ab749ac4b028db7db357, type: 3}
   _planetPrefabs:
   - PlanetPrefabName: 
     PlanetPrefabPath: 
     PlanetPrefab: {fileID: 2802582009948295791, guid: 2929e118fcbe70941ac48b745a033b69, type: 3}
-  serializedAudioClips: 
-  serializedPlanetPrefabs: OldSeaPortPlanetPrefab,Assets/Mods/TemplateMod/Moons/OldSeaPortPlanetPrefab.prefab
+  _networkPrefabs: []
+  serializedAudioClips: pizza!,Assets/Mods/NagiScraps/items/scraps/pizza/pizza!.mp3
+  serializedPlanetPrefabs: ','
+  serializedNetworkPrefabs: 
