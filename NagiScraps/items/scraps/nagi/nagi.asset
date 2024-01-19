@@ -27,7 +27,7 @@ MonoBehaviour:
   grabSFX: ShovelReelUp
   dropSFX: ShovelSwing
   verticalOffset: 0.06
-  restingRotation: {x: 0, y: 90, z: 90}
+  restingRotation: {x: -90, y: 0, z: 0}
   positionOffset: {x: -0.0683, y: 0.0615, z: 0.0258}
   rotationOffset: {x: -15.022, y: 103.043, z: 38.296}
   meshVariants: []

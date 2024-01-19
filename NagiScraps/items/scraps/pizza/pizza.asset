@@ -27,7 +27,7 @@ MonoBehaviour:
   grabSFX: ShovelReelUp
   dropSFX: ShovelSwing
   verticalOffset: 0.06
-  restingRotation: {x: 0, y: 90, z: 90}
+  restingRotation: {x: -90, y: 0, z: 0}
   positionOffset: {x: 0.029, y: 0.17, z: -0.02}
   rotationOffset: {x: 14.705, y: 164.353, z: 82.848}
   meshVariants: []
@@ -127,7 +127,7 @@ MonoBehaviour:
   maxLoudness: 1
   minLoudness: 1
   minPitch: 1
-  maxPitch: 1
+  maxPitch: 1.5
   triggerAnimator: {fileID: 0}
   whoopieCushionAudio: {fileID: 0}
   fartAudios:
