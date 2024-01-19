@@ -23,7 +23,7 @@ MonoBehaviour:
   requiresBattery: 0
   isConductiveMetal: 0
   weight: 5
-  prefab: {fileID: 6178985097970002148, guid: e0ef9b1157fa7fd47aefe50555bafe2d, type: 3}
+  prefab: {fileID: 5342608547221946972, guid: e0ef9b1157fa7fd47aefe50555bafe2d, type: 3}
   grabSFX: ShovelReelUp
   dropSFX: ShovelSwing
   verticalOffset: 0.06
@@ -125,7 +125,7 @@ MonoBehaviour:
   - ClownHornFar
   noiseRange: 60
   maxLoudness: 1
-  minLoudness: 0.6
+  minLoudness: 1
   minPitch: 1
   maxPitch: 1
   triggerAnimator: {fileID: 0}
