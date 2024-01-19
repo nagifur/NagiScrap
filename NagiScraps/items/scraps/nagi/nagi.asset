@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 0
   itemName: Nagi
-  minValue: 20
-  maxValue: 80
+  minValue: 50
+  maxValue: 130
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0

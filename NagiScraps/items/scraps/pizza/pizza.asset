@@ -16,8 +16,8 @@ MonoBehaviour:
   IncompatibleBundles: []
   scrapType: 3
   itemName: Pizza -Hot-
-  minValue: 20
-  maxValue: 80
+  minValue: 50
+  maxValue: 130
   twoHanded: 0
   HandedAnimation: 0
   requiresBattery: 0
