@@ -32,8 +32,8 @@ MonoBehaviour:
   rotationOffset: {x: -15.022, y: 103.043, z: 38.296}
   meshVariants: []
   materialVariants: []
-  useGlobalSpawnWeight: 1
-  globalSpawnWeight: 100
+  useGlobalSpawnWeight: 0
+  globalSpawnWeight: 30
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
     SpawnWeight: 6
@@ -51,46 +51,6 @@ MonoBehaviour:
     SpawnWeight: 18
   - SceneName: 8 Titan
     SpawnWeight: 15
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
-  - SceneName: Others
-    SpawnWeight: 10
   - SceneName: Others
     SpawnWeight: 10
   - SceneName: Others
@@ -136,4 +96,4 @@ MonoBehaviour:
   - Fart3
   - Fart5
   serializedData: 41 Experimentation,6;220 Assurance,7;56 Vow,8;21 Offense,11;61
-    March,12;85 Rend,16;7 Dine,18;8 Titan,15;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10;Others,10
+    March,12;85 Rend,16;7 Dine,18;8 Titan,15;Others,10;Others,10
