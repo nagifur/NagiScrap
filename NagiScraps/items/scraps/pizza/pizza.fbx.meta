@@ -1,9 +1,19 @@
 fileFormatVersion: 2
-guid: 796aad1a883d47940b13e543150b5d0a
+guid: 4a13cc0176f8b934e8e02d4d8436b4ec
 ModelImporter:
   serializedVersion: 22200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cheese
+    second: {fileID: 2100000, guid: 4c69c86277c377e438a25759b28313fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 860776a6ca153424b9adf9f5af5e3642, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
