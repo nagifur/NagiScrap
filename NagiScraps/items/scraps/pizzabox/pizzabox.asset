@@ -33,7 +33,7 @@ MonoBehaviour:
   meshVariants: []
   materialVariants: []
   useGlobalSpawnWeight: 1
-  globalSpawnWeight: 40
+  globalSpawnWeight: 17
   _perPlanetSpawnWeight:
   - SceneName: 41 Experimentation
     SpawnWeight: 6
